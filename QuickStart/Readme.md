@@ -7,7 +7,7 @@ The first thing we will have to check is if we have the extension of Uno added i
 ### 1. Install extension Uno in Visual Studio 
 
 First, we have to create our project. Uno will be installed to the corresponding extension in Visual Studio. For this we must:
-
+![]()
 - Start Visual Studio using “Continue without code”.
 ![](https://raw.githubusercontent.com/idiWork/UnoPlatform/master/QuickStart/docs/assets/Start_VisualStudio.PNG)
 - At the top we click on Extensions -> Manage Extensions.
@@ -17,7 +17,7 @@ First, we have to create our project. Uno will be installed to the corresponding
 -               Once downloaded, you will have to restart Visual Studio to make sure everything is correct. After that we can start creating our Uno project
 
 ### 2.    Create a new project
-
+![]()
 -               We start Visual Studio again but this time through “Create a new Project”.
 -               We look for Uno Platform and select “Cross-Platform App (Uno Platform).
 ![](https://raw.githubusercontent.com/idiWork/UnoPlatform/master/QuickStart/docs/assets/Create_Project.PNG)
